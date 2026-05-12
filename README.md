@@ -25,7 +25,7 @@ ping google.com
 
 ## Screenshots
 ![kali interface](kali-interface)
-![Virtual Machine Interface.png](virtual-machine-interface.png)
+![Virtual Machine Interface](virtual-machine-interface.png)
 ![Nerwork comand](Nerwork-comand)
 ![CLI](CLI)
 ![ping google](ping-google)
