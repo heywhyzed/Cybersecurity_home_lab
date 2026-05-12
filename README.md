@@ -24,7 +24,11 @@ ip a
 ping google.com
 
 ## Screenshots
-(Screenshots will be added here)
+![kali interface](kali-interface)
+![Virtual Machine Interface](Virtual-Machine-Interface)
+![Nerwork comand](Nerwork-comand)
+![CLI](CLI)
+![ping google](ping-google)
 
 ## Skills Demonstrated
 - Virtual machine setup
